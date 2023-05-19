@@ -5,33 +5,27 @@ permalink: /privacy-policy/
 comments: false
 ---
 
-### Information that is gathered from visitors
-In common with other websites, log files are stored on the web server saving details such as the visitor's IP address, browser type, referring page and time of visit.
+At InnerChronicles, we value your privacy and are committed to protecting your personal information. This Privacy Policy outlines how we collect, use, disclose, and safeguard your data when you visit our website.
 
-Cookies may be used to remember visitor preferences when interacting with the website.
+### Information Collection and Use
+We may collect personal information such as your name and email address when you voluntarily submit it to us.
+We use this information to provide you with a personalized experience, respond to your inquiries, and send you relevant updates.
 
-Where registration is required, the visitor's email and a username will be stored on the server.
+### Data Storage and Security
+We employ industry-standard security measures to protect your information from unauthorized access, loss, or misuse.
+Your personal data is stored securely and is only accessible to authorized personnel who require it for the purposes outlined in this policy.
 
-### How the Information is used
-The information is used to enhance the vistor's experience when using the website to display personalised content and possibly advertising.
-
-E-mail addresses will not be sold, rented or leased to 3rd parties.
-
-E-mail may be sent to inform you of news of our services or offers by us or our affiliates.
-
-### Visitor Options
-If you have subscribed to one of our services, you may unsubscribe by following the instructions which are included in e-mail that you receive.
-
-You may be able to block cookies via your browser settings but this may prevent you from access to certain features of the website.
+### Third-Party Links
+Our website may contain links to third-party websites or services. We are not responsible for their privacy practices, so we encourage you to review their respective privacy policies.
 
 ### Cookies
-Cookies are small digital signature files that are stored by your web browser that allow your preferences to be recorded when visiting the website. Also they may be used to track your return visits to the website.
+We use cookies to enhance your browsing experience and analyze website traffic. You have the option to disable cookies in your browser settings.
 
-3rd party advertising companies may also use cookies for tracking purposes.
+### Data Retention
+We retain your personal information only for as long as necessary to fulfill the purposes for which it was collected or as required by law.
 
-### Google Ads
-Google, as a third party vendor, uses cookies to serve ads.
+### Updates to the Privacy Policy
+We may update this Privacy Policy from time to time. Any changes will be posted on this page, and we recommend reviewing it periodically.
+By using InnerChronicles, you consent to the terms outlined in this Privacy Policy. If you have any questions or concerns, please contact us at [nishanta454@gmail.com](mailto:nishanta454@gmail.com)
 
-Google's use of the DART cookie enables it to serve ads to visitors based on their visit to sites they visit on the Internet.
-
-Website visitors may opt out of the use of the DART cookie by visiting the Google ad and content network privacy policy.
+**Last updated:**  20-May-2023
