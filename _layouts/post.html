@@ -48,11 +48,11 @@ post_class: post-template
 
             <!-- Post Date -->
             <p>
-            <small>
-                <span class="post-date"><time class="post-date" datetime="{{ page.date | date:"%Y-%m-%d" }}">{{ page.date | date_to_string }}</time></span>           
-                {% if page.last_modified_at %}
-                (Updated: <time datetime="{{ page.last_modified_at | date_to_xmlschema }}" itemprop="dateModified">{{ page.last_modified_at | date: "%b %-d, %Y" }}</time>)
-                {% endif %}
+                <small>
+                    <span class="post-date"><time class="post-date" datetime="{{ page.date | date:"%Y-%m-%d" }}">{{ page.date | date_to_string }}</time></span>           
+                    {% if page.last_modified_at %}
+                    (Updated: <time datetime="{{ page.last_modified_at | date_to_xmlschema }}" itemprop="dateModified">{{ page.last_modified_at | date: "%b %-d, %Y" }}</time>)
+                    {% endif %}
                 </small>
             </p>
             
@@ -75,7 +75,7 @@ post_class: post-template
             
             
              <!-- Author Box -->
-                {% if page.author %}				
+             {% if page.author %}				
 				<div class="row post-top-meta">
 					<div class="col-md-2">
 						<img class="author-thumb" src="{{site.baseurl}}/{{author.avatar}}" alt="{{ author.display_name }}">
@@ -85,15 +85,15 @@ post_class: post-template
 						<span class="author-description">{{ author.description }}</span>						
 					</div>
 				</div>				
-                {% endif %}
+             {% endif %}
             
             
             <!-- Begin Comments
             ================================================== -->
             <section>
-            <div id="comments">                          
-                {% include disqus.html %} 
-            </div>
+                <div id="comments">                          
+                    {% include disqus.html %} 
+                </div>
             </section>
             <!--End Comments
             ================================================== -->
@@ -109,7 +109,7 @@ post_class: post-template
 		<!-- Sidebar -->
         <div class="col-sm-4">
             {% include sidebar.html %}
-            </div>
+        </div>
         
         
 
