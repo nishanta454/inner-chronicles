@@ -1,11 +1,11 @@
 title: "InnerChronicles"
-email: nishanta454@gmail.com
+email: inner.chronicles.blog@gmail.com
 timezone: UTC
 baseurl: "/inner-chronicles"
 permalink: "/:title/"
 logo: 'assets/images/logo.png'
 favicon: 'assets/images/favicon.ico'
-author: Nishant
+author: InkScribe
 paginate: 30
 disqus: 'demowebsite'
 locale: en_us
@@ -24,14 +24,14 @@ ganalytics: UA-113961478-1
 
 # Authors
 authors:
-  nishant:
-    name: Nishant
-    display_name: Nishant
+  raymond:
+    name: inkscribe
+    display_name: InkScribe
     avatar: 'assets/images/sal.png'
-    email: nishanta454@gmail.com
+    email: inner.chronicles.blog@gmail.com
     web: https://www.innerchronicles.com
-    twitter: https://twitter.com/wowthemesnet
-    description: "A passionate storyteller, weaving words into captivating narratives that touch hearts and ignite imagination, bringing the hidden realms of life to light through the pages of InnerChronicles."
+    twitter: javascrit:void(0);
+    description: "InkScribe is a passionate wordsmith and storyteller, weaving tales that explore the depths of human experiences. With a knack for blending reality and imagination, InkScribe invites readers on thought-provoking journeys that inspire introspection and ignite the imagination."
 
 # Social
 social:

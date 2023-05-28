@@ -26,6 +26,6 @@ We retain your personal information only for as long as necessary to fulfill the
 
 ### Updates to the Privacy Policy
 We may update this Privacy Policy from time to time. Any changes will be posted on this page, and we recommend reviewing it periodically.
-By using InnerChronicles, you consent to the terms outlined in this Privacy Policy. If you have any questions or concerns, please contact us at [nishanta454@gmail.com](mailto:nishanta454@gmail.com)
+By using InnerChronicles, you consent to the terms outlined in this Privacy Policy. If you have any questions or concerns, please contact us at [inner.chronicles.blog@gmail.com](mailto:inner.chronicles.blog@gmail.com)
 
 **Last updated:**  20-May-2023

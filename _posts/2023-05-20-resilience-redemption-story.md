@@ -2,8 +2,8 @@
 layout: post
 title:  "Beneath the Storm: A Journey of Love, Resilience, and Redemption"
 description: "Follow the inspiring tale of a boy from a lower middle-class background whose life takes unexpected turns. From success to heartbreak, family struggles, and a quest for spiritual awakening, this story explores themes of love, resilience, and finding happiness against all odds."
-author: nishant
-categories: [ Personal Growth, Relationships, Family, Life Challenges ]
+author: inkscribe
+categories: ["Personal Stories", "LoveStory", "Relationships", "LifeChoices", "SelfDiscovery"]
 image: assets/images/resilience-redemption-story.jpg
 ---
 Once upon a time, in a small town, lived a young boy named Rohan. He came from a lower middle-class family, where his hardworking parents had dedicated their lives to providing him with a good education and a better future. Rohan's parents had made numerous sacrifices, always dreaming of a brighter tomorrow for their son.

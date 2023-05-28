@@ -2,8 +2,8 @@
 layout: post
 title:  "The Sheltered Secret: A Journey of Redemption and Reflection"
 description: "Join the captivating story of a young boy's unexpected adventure, as he navigates through challenging circumstances, grapples with guilt, and seeks redemption. Explore themes of integrity, forgiveness, and self-discovery in this SEO-optimized tale."
-author: nishant
-categories: [ Moral Dilemma ]
+author: inkscribe
+categories: ["Personal Stories", "ExamJourney", "Adventure", "SelfDiscovery" ]
 image: assets/images/the-sheltered-secret.jpg
 ---
 Once upon a time, in a distant city, a young boy embarked on a journey to take an important exam. Arriving a day early, he searched for an affordable place to stay but found no luck. With limited funds, he turned to the gurudwara for shelter. Little did he know, this decision would lead to a series of unexpected events.
