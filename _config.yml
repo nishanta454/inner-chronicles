@@ -1,7 +1,7 @@
 title: "InnerChronicles"
 email: inner.chronicles.blog@gmail.com
 timezone: UTC
-baseurl: "/inner-chronicles"
+url: "https://www.innerchronicles.com"
 permalink: "/:title/"
 logo: 'assets/images/logo.png'
 favicon: 'assets/images/favicon.ico'
